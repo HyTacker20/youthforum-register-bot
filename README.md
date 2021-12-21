@@ -1,2 +1,2 @@
 # youthforum-register-bot
-Bot for registration to Kelmentsi's 5th Youth Forum 
+Bot to register to the Kelmentsi's 5th Youth Forum 
