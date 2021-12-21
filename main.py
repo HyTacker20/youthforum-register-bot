@@ -123,7 +123,7 @@ def get_expectation(msg):
     print(user_info)
     
     bot.send_message(948240305, 'ку молодіжним гоблінам))')
-    msg1 = f'ПІБ - {user_info[msg.chat.id][1]} {user_info[msg.chat.id][2]} {user_info[msg.chat.id][3]}\n\n' \
+    msg1 = f'ПІБ - {user_info[msg.chat.id][2]} {user_info[msg.chat.id][1]} {user_info[msg.chat.id][3]}\n\n' \
             f'Номер телефону - {user_info[msg.chat.id][4]}\n\n' \
             f'Нік у телеграмі - @{user_info[msg.chat.id][5]}\n\n' \
             f'Посилання на соцмережу - {user_info[msg.chat.id][6]}\n\n' \
